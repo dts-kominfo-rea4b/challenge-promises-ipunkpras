@@ -44,8 +44,3 @@ const promiseTheaterVGC = async () => {
     return resolve(hasilSetelahMenonton);
   });
 };
-
-module.exports = {
-  promiseTheaterIXX,
-  promiseTheaterVGC,
-};
